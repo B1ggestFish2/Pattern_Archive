@@ -1,0 +1,36 @@
+
+{
+  "id": "",
+  "title": "",
+  "originalUserTerm": "",
+  "standardizedTerm": "",
+  "alternativeNames": [],
+  "patternCategory": [],
+  "cultureOrTradition": "",
+  "region": "",
+  "countryOrArea": "",
+  "dateOrPeriod": "",
+  "material": [],
+  "technique": [],
+  "function": "",
+  "significance": "",
+  "description": "",
+  "image": {
+    "url": "",
+    "source": "",
+    "institution": "",
+    "objectOrCollectionNumber": "",
+    "creator": "",
+    "license": "",
+    "usageNotes": ""
+  },
+  "sources": {
+    "primary": [],
+    "supporting": []
+  },
+  "confidence": "",
+  "researchStatus": "NEEDS RESEARCH",
+  "relatedIds": [],
+  "researchNotes": [],
+  "lastResearched": ""
+}
